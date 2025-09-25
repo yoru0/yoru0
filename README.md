@@ -7,7 +7,7 @@ Tinkering with AI, Crypto, and Finance
 Powered by Go, Python, and Coffee
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="assets/kyubey.gif" height="40" />
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/jordanchandra)
